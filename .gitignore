@@ -1,0 +1,12 @@
+# Environment files
+.env
+*.log
+
+# API Keys
+config.json
+
+# System files
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
